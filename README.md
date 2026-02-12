@@ -1,7 +1,6 @@
-# Olá, eu sou o Lukan! 👋
 ### 📡 Broadcast IT | 🐍 Python Automation | 🐳 DevOps Enthusiast
 
-Sou um Analista de Suporte Técnico em transição para Engenharia de Soluções e DevOps. Minha paixão é unir o mundo da infraestrutura tradicional (Redes, Áudio/Vídeo) com automação moderna.
+Técnico de Suporte Pleno expandindo competências para Engenharia de Soluções e DevOps.
 
 Atualmente, foco em criar ferramentas para otimizar fluxos de trabalho em ambientes de TV e Rádio, transformando tarefas manuais em scripts inteligentes.
 
