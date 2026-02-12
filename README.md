@@ -12,7 +12,6 @@ Atualmente, foco em criar ferramentas para otimizar fluxos de trabalho em ambien
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Dante AV](https://img.shields.io/badge/Dante_AV_Level_3-FF0000?style=for-the-badge&logo=audinate&logoColor=white)
 
 ---
 
@@ -27,12 +26,6 @@ Atualmente, foco em criar ferramentas para otimizar fluxos de trabalho em ambien
 **O que é:** Solução de transcrição de áudio local utilizando modelos de IA (Whisper) rodando em containers.
 **Tech:** Python, Docker, FFmpeg.
 **Uso:** Automatização de log de gravações de áudio.
-
----
-
-### 📊 GitHub Stats
-![Lukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlukan&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlukan&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
